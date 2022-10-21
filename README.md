@@ -8,9 +8,9 @@ I time myself everyday to work on a basic JavaScript project
 
 Still working
 
-## You can see all projects in action here
+## A log of pending projects
 
-[Projects](https://www.vanillajavascriptprojects.com/)
+
 
 1. Color Flipper
 2. Counter
