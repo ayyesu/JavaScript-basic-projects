@@ -5,4 +5,4 @@ It contains a `Click me button` which when clicked generates a random color whic
 
 #### Preview of project
 
-file:///home/travis/Videos/Screencasts/Screencast%20from%2010-21-2022%2001:54:52%20AM.webm
+
