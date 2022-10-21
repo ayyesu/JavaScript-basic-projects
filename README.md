@@ -12,8 +12,8 @@ Still working
 
 
 
-1. Color Flipper (DONE)
-2. Counter
+1. Color Flipper => Progress[DONE]
+2. Counter       => Progress[DONE]
 3. Reviews
 4. Navbar
 5. Sidebar
