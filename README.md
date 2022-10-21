@@ -12,7 +12,7 @@ Still working
 
 
 
-1. Color Flipper
+1. Color Flipper (DONE)
 2. Counter
 3. Reviews
 4. Navbar
